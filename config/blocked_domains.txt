@@ -1,0 +1,3 @@
+# one domain or IP per line
+example.com
+badsite.org
